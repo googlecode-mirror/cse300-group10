@@ -1,0 +1,1 @@
+This is a web application which is being developed with the purpose of making the Allocation of Hostel rooms to students a fair and transparent process.
